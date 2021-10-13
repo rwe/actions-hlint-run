@@ -38,10 +38,10 @@
     semver "^6.1.0"
     uuid "^3.3.2"
 
-"@types/node@^14.11.2":
-  version "14.11.2"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-14.11.2.tgz#2de1ed6670439387da1c9f549a2ade2b0a799256"
-  integrity sha512-jiE3QIxJ8JLNcb1Ps6rDbysDhN4xa8DJJvuC9prr6w+1tIh+QAbYyNF3tyiZNLDBIuBCf4KEcV2UvQm/V60xfA==
+"@types/node@^16.10.5":
+  version "16.10.5"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-16.10.5.tgz#7fe4123b061753f1a58a6cd077ff0bb069ee752d"
+  integrity sha512-9iI3OOlkyOjLQQ9s+itIJNMRepDhB/96jW3fqduJ2FTPQj1dJjw6Q3QCImF9FE1wmdBs5QSun4FjDSFS8d8JLw==
 
 "@zeit/ncc@^0.22.3":
   version "0.22.3"
